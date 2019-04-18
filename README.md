@@ -1,2 +1,0 @@
-# usePubSub
-Created with CodeSandbox
