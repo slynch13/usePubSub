@@ -38,7 +38,7 @@ export default App
 ```jsx
 import React, { useContext, useReducer, useState, useEffect } from "react";
 import ReactDOM from "react-dom";
-import usePubSub, { DefaultPubSubContext } from "./usePubSub";
+import { usePubSub, DefaultPubSubContext } from 'usepubsub';
 
 const SeperateContext = React.createContext();
 function App() {
