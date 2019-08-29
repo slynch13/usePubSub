@@ -1,7 +1,7 @@
-import { useMyHook } from './'
+import { usePubSub } from './'
 
-describe('useMyHook', () => {
+describe('usePubSub', () => {
   it('is truthy', () => {
-    expect(useMyHook).toBeTruthy()
+    expect(usePubSub).toBeTruthy()
   })
 })

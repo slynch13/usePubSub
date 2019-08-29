@@ -9,7 +9,7 @@
     "react": "file:../node_modules/react",
     "react-dom": "^16.8.6",
     "react-scripts": "^3.0.1",
-    "uspubsub": "file:.."
+    "usepubsub": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",

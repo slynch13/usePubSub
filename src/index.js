@@ -72,5 +72,4 @@ const usePubSub = context => {
     PubSubContext
   }
 }
-export default usePubSub
-export { DefaultPubSubContext }
+export { usePubSub, DefaultPubSubContext }
